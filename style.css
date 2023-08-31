@@ -201,7 +201,7 @@ footer {
     left: 50%
   }
   to {
-    right: 0;
+    left: 0;
   }
 
 }
